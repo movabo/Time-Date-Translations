@@ -1,0 +1,41 @@
+të dytë
+i dytë
+minutë
+orë
+ditë
+javës
+muaj
+viti
+dekadë
+shekulli
+Të mijëvjeçarit
+milisekonda
+sekonda
+minuta
+orë
+ditë
+javë
+muaj
+vjet
+dekada
+shekuj
+mijëvjeçarë
+Janar
+Shkurt
+Mars
+Prill
+Mund të
+Qershor
+Korrik
+Gusht
+Shtator
+Tetor
+Nëntor
+Dhjetor
+E hënë
+E martë
+E mërkurë
+E enjte
+E premte
+E shtunë
+Të dielën

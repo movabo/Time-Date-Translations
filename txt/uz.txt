@@ -1,0 +1,41 @@
+millisecond
+ikkinchi
+daqiqa
+soat
+kun
+hafta
+oy
+yil
+o'n yil
+asr
+Mingyillik
+milliseconds
+soniya
+daqiqa
+soat
+kun
+hafta
+oy
+yil
+o'n yilliklar
+asrlar
+ming yillar
+Yanvar
+Fevral
+Mart
+Aprel
+Mumkin
+Iyun
+Iyul
+Avgust
+Sentyabr
+Oktyabr
+Noyabr
+Dekabr
+Dushanba
+Seshanba
+Chorshanba
+Payshanba
+Juma
+Shanba
+Yakshanba

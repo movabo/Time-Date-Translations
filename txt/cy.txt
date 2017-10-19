@@ -1,0 +1,41 @@
+millisecond
+ail
+munud
+awr
+dydd
+wythnos
+mis
+flwyddyn
+degawd
+ganrif
+Mileniwm
+milieiliadau
+eiliad
+munud
+oriau
+diwrnod
+wythnos
+mis
+mlynedd
+degawdau
+canrifoedd
+filoedd o flynyddoedd
+Ionawr
+Chwefror
+Mawrth
+Ebrill
+Gall
+Mehefin
+Gorffennaf
+Awst
+Medi
+Hydref
+Tachwedd
+Rhagfyr
+Dydd llun
+Dydd mawrth
+Dydd mercher
+Dydd iau
+Dydd gwener
+Sadwrn
+Dydd sul

@@ -1,0 +1,41 @@
+ms
+ikinci
+dəqiqə
+saat
+gün
+həftə
+ay
+yaş
+on
+əsr
+minillik
+миллисекундах
+saniyə
+dəqiqə
+saat
+gün
+həftə
+ay
+yaş
+onilliklər
+əsrlər
+minilliklərin
+Yanvar
+Fevral
+Mart
+Aprel
+May
+İyun
+İyul
+Avqust
+Sentyabr
+Oktyabr
+Noyabr
+Dekabr
+Bazar ertəsi
+Çərşənbə axşamı
+Çərşənbə
+Cümə axşamı
+Cümə
+Şənbə
+Bazar günü

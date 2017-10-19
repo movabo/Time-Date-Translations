@@ -1,0 +1,41 @@
+milisecundă
+a doua
+minute
+oră
+zi
+saptamana
+luna
+an
+deceniu
+lea
+Millennium
+de milisecunde
+secunde
+minute
+ore
+zile
+săptămâni
+luni
+ani
+zeci de ani
+secole
+milenii
+Ianuarie
+Februarie
+Martie
+Aprilie
+Poate
+Iunie
+Iulie
+August
+Septembrie
+Octombrie
+Noiembrie
+Decembrie
+Luni
+Marți
+Miercuri
+Joi
+Vineri
+Sâmbătă
+Duminică

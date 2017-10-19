@@ -1,0 +1,41 @@
+milisekundu
+drugi
+minute
+sat
+dan
+tjedan
+mjesec
+godine
+decenije
+stoljeća
+Milenijuma
+milisekundi
+sekundi
+minute
+sata
+dana
+tjedana
+mjeseci
+godina
+decenijama
+vekovima
+milenijuma
+Januar
+Februar
+Marta
+April
+Neka
+Jun
+Jula
+August
+Septembra
+Oktobar
+Novembar
+Decembar
+Ponedjeljak
+Utorak
+U srijedu
+Četvrtak
+U petak
+U subotu
+U nedjelju

@@ -1,0 +1,41 @@
+milisekundu
+druhý
+minutu
+hodinu
+den
+týden
+měsíc
+rok
+desetiletí
+století
+Tisíciletí
+milisekund
+sekund
+minut
+hodin
+dny
+týdny
+měsíců
+let
+desetiletí
+století
+tisíciletí
+Leden
+Únor
+Březen
+Duben
+Května
+Června
+Červenec
+Srpna
+Září
+Říjen
+Listopadu
+Prosince
+V pondělí
+Úterý
+Ve středu
+Ve čtvrtek
+V pátek
+V sobotu
+V neděli
